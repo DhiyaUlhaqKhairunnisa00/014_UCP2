@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UCP2</string>
+    <string name="submit_btn">Kirim</string>
+    <string name="back_btn">Kembali</string>
+    <string name="next_btn">Lanjut</string>
+    <string name="dosen1">Haris Setiawan</string>
+    <string name="dosen2">Dwi Djoko P</string>
+    <string name="dosen3">Aprilia Kurniati</string>
+    <string name="nama_mhs">Nama Mahasiswa</string>
+    <string name="no_mhs">Nim</string>
+    <string name="minat">Konsentrasi</string>
+    <string name="jdl_skripsi">Judul Skripsi</string>
+    <string name="dospem1">Dosen Pembimbing 1</string>
+    <string name="dospem2">Dosen Pembimbing 2</string>
+</resources>
